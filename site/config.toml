@@ -1,6 +1,6 @@
 title = "Airspace for Hugo"
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr"
 theme = "airspace-hugo"
 
 [menu]
